@@ -1,0 +1,13 @@
+D:\Jason\VBTEST_1\bin\Debug\VBTEST_1.exe.config
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.Form1.resources
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.Resources.resources
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.vbproj.GenerateResource.Cache
+D:\Jason\VBTEST_1\bin\Debug\VBTEST_1.exe
+D:\Jason\VBTEST_1\bin\Debug\VBTEST_1.pdb
+D:\Jason\VBTEST_1\bin\Debug\VBTEST_1.xml
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.Form2.resources
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.exe
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.xml
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.pdb
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.vbprojResolveAssemblyReference.cache
+D:\Jason\VBTEST_1\obj\Debug\VBTEST_1.userSearch.resources
